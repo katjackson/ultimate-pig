@@ -17,4 +17,4 @@ Tammy is a player in the class RollsToTwenty, which inherits from the Player cla
 ##### Tommi
 Tommi is a player in the class TheThinker, which inherits from the Player class. Tommi uses the strategies of Tony and Tammy. She holds when either condition is met. She does pretty well.
 
-Use [this link](http://localhost:8888/notebooks/ultimate_pig.ipynb) to view the jupyter notebook and inline plots.
+Use [this link](https://github.com/katjackson/ultimate-pig/blob/master/ultimate_pig.ipynb) to view the jupyter notebook and inline plots.
